@@ -6,7 +6,7 @@ Abstract Class
   
 Concrete Classes
   
-  2. Automobile, Airplane and Boat extends (inherit) from Vechile. 
+  2. Automobile, Airplane and Boat classes extends (inherit) from Vechile. 
   
 Factory Class
   1. A public static final instance is created and set equal to null.
