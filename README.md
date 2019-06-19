@@ -1,5 +1,5 @@
 # DesignPattern
-Simple Singleton and Factory design patterns Implementation
+Simple Singleton and Factory design patterns Implementation.
 
 Abstract Class
   1. In the Vehicle class the move() is incomplete will be needed to be implemented by another class.
